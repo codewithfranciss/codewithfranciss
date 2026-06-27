@@ -2,11 +2,6 @@
 
 Backend Software Engineer focused on building scalable systems, databases, payment infrastructure, system programming, and developer tools.
 
-
-## About Me
-
-I enjoy designing reliable backend systems and solving complex engineering problems. My interests include:
-
 - Distributed systems
 - Database internals
 - Payment processing
