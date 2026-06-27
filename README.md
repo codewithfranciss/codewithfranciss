@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dozie
+## 👋 Hi, I'm Dozie
 
-Backend Software Engineer focused on building scalable systems, databases, payment infrastructure, system programming, and developer tools.
+I enjoy building:
 
 - Distributed systems
 - Database internals
@@ -12,7 +12,7 @@ Backend Software Engineer focused on building scalable systems, databases, payme
 - System architecture
 
 
-## 🖥️ Tech Stack
+## 🖥️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -35,7 +35,13 @@ Backend Software Engineer focused on building scalable systems, databases, payme
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-
-## Philosophy
-
-I learn by building. Most of my projects are focused on understanding how production systems work under the hood — from databases and payment platforms to distributed systems and developer tooling.
+## 🔗 Connect with me
+<a target="_blank" href="https://antfroze.me">
+  <img src="https://img.shields.io/badge/portfolio-272b33?logo=vercel&style=for-the-badge">
+</a>
+<a target="_blank" href="https://youtube.com/c/antfroze">
+  <img src="https://img.shields.io/badge/youtube-272b33?logo=youtube&logoColor=FF0000&style=for-the-badge">
+</a>
+<a target="_blank" href="https://twitter.com/antfroze">
+  <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
+</a>
