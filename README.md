@@ -2,7 +2,6 @@
 
 Backend Software Engineer focused on building scalable systems, databases, payment infrastructure, system programming, and developer tools.
 
----
 
 ## About Me
 
@@ -17,7 +16,6 @@ I enjoy designing reliable backend systems and solving complex engineering probl
 - Developer tools
 - System architecture
 
----
 
 ## 🖥️ Tech Stack
 
@@ -55,32 +53,8 @@ I enjoy designing reliable backend systems and solving complex engineering probl
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
 
-## 🔍 Areas of Interest
 
-- Backend Engineering
-- Databases
-- Distributed Systems
-- Payment Systems
-- System Programming
-- Infrastructure Engineering
-- Performance Optimization
-- Software Architecture
-
----
-
-## 📚 What I'm Currently Learning
-
-- Database internals
-- Distributed systems
-- Payment infrastructure
-- Event-driven systems
-- Kubernetes
-- System design
-
----
-
-## 💡 Philosophy
+## Philosophy
 
 I learn by building. Most of my projects are focused on understanding how production systems work under the hood — from databases and payment platforms to distributed systems and developer tooling.
