@@ -36,12 +36,9 @@ I enjoy building:
 
 
 ## 🔗 Connect with me
-<a target="_blank" href="https://antfroze.me">
-  <img src="https://img.shields.io/badge/portfolio-272b33?logo=vercel&style=for-the-badge">
+<a target="_blank" href="https://www.linkedin.com/in/francis-chidoziem/">
+  <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=0A66C2&style=for-the-badge">
 </a>
-<a target="_blank" href="https://youtube.com/c/antfroze">
-  <img src="https://img.shields.io/badge/youtube-272b33?logo=youtube&logoColor=FF0000&style=for-the-badge">
-</a>
-<a target="_blank" href="https://twitter.com/antfroze">
+<a target="_blank" href="https://x.com/freshakafrancis">
   <img src="https://img.shields.io/badge/twitter-272b33?logo=twitter&logoColor=1d9bf0&style=for-the-badge">
 </a>
